@@ -1,0 +1,8 @@
+textarea{
+    resize: none;
+    height: 150px;
+}
+
+body{
+    background-color:darkgray;
+}
